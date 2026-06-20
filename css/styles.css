@@ -812,6 +812,7 @@ a {
     /* display: flex;
     justify-content: space-evenly; */
     grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-template-rows: repeat(1, 6rem);
   }
 }
 
